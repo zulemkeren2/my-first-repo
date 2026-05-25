@@ -1,0 +1,12 @@
+{
+  "name": "my-first-repo",
+  "version": "1.0.0",
+  "description": "My learning project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "author": "zulemkeren2",
+  "license": "MIT"
+}
